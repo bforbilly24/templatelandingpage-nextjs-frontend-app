@@ -37,6 +37,6 @@ You can start editing the page by modifying `_app.js`. The page auto-updates as 
 
 ## Preview
 
-<img  alt="home_1" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/2e4559d7-0e5c-4390-9514-831e71efee4e">
-<img alt="home_2" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/e2a6c0b2-c57a-46a4-9b2f-88e1c792a2f1">
-<img alt="home_3" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/3003afb9-1098-42cf-b1ce-5b58150d5156">
+<img  alt="home_1" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/ec959614-6886-4e4c-804e-eb2321a15cab">
+<img alt="home_2" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/7ea932d5-a62c-4514-a2c8-009578df9f08  ">
+<img alt="home_3" src="https://github.com/bforbilly24/templatelandingpage-nextjs-frontend-app/assets/93701344/cdcbff50-7f83-41ca-b7e6-47e8764aee36">
